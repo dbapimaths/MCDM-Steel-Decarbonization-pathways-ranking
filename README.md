@@ -247,6 +247,4 @@ This repository reproduces the baseline analysis for respondent R1 only. It does
 
 The rankings reflect the relative preferences derived from expert-perceived deployment barriers. They do not constitute predictions of technology deployment or generalizable investment or policy recommendations.
 
-## Citation
 
-If using this implementation, please cite the associated manuscript by Bhattacharjee, Fleischanderl, Saha, and Dutta, *Assessing the change in technological preferences of iron and steel decarbonization between time horizons using multi-criteria decision-making*.
