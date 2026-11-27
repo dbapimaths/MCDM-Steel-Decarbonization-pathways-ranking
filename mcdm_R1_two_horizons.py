@@ -1,7 +1,6 @@
 """Baseline MCDM analysis for one respondent across two evaluation horizons.
 Run: python mcdm_single_respondent.py
 Dependencies: numpy, scipy, artifact_tool (for Excel input/output).
-All scoring and ranking conventions retained from mcdm_experiments.py.
 """
 from pathlib import Path
 import numpy as np
