@@ -38,7 +38,6 @@ The implementation reproduces the individual pathway rankings for respondent R1 
 | VIKOR parameter | v = 0.5 |
 | WASPAS parameter | λ = 0.5 |
 | Score rounding before ranking | 10 decimal places |
-| Tie handling | Minimum rank (`min`); e.g., 1, 2, 2, 4 |
 | Rank direction | Rank 1 represents the least barrier-constrained pathway |
 | Rank aggregation | Arithmetic mean of the six method-specific ranks |
 
